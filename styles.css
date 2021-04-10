@@ -1,0 +1,46 @@
+img{
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin:  auto;
+    
+  }
+  
+  body{
+   text-align: center; 
+   display: block;
+   margin: auto;
+  }
+  
+  h1 {
+    font-family: "Arial Black", Arial, Impact; 
+  }
+
+  body {
+      color: #d3e0ea;
+  }
+  
+  #img-caption{
+     font-family: "Gadget";
+     background: silver;
+     padding: 2px;
+     font-size: 20px;
+  }
+
+  #tribute-link {
+    font-size: large;
+  }
+
+  #tribute-info {
+    margin-bottom: 75px;
+  }
+  
+.youtube-link {
+  margin: auto auto 40px auto;
+}
+
+  p {
+    font-size: 18px;
+    font-family: Tahoma;
+    height: 100px 
+  }
